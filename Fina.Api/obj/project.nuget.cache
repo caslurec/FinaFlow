@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UuP0zmvpLLDOkpp0apicn0LLv8LOrsXx04QKiwLmfSIY+Az5jifaBScwfwOoKfX18B7Hy54nVtKgDPdJ9u0CZQ==",
+  "dgSpecHash": "8mfpWTifBofP8vqIh6vxxTaJk/NJnJr1roYSnlNGiethJbgsz5VX7D+MxQpyhknasHgSmX7zpdA+zj2SfiY8lA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Fina\\Fina.Api\\Fina.Api.csproj",
+  "projectFilePath": "C:\\dev\\Fina\\FinaFlow\\Fina.Api\\Fina.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

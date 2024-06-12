@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/ONI/mMLS9fblWihIRCDe+uB8mU1/f53q+3qNxm2kIAmLQ7GzBcE83/dLqqvV9b8lJYQrRTfwmIhbxPvgaV7w==",
+  "dgSpecHash": "vAPdnbAof5mLW2PG49hHgtpmGBNLUg1fFX1hJCzt2f+tf0v4QZ2kG6daqJUDfb90d+DF8k8OyKakTulcFkiMCw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Fina\\Fina.Web\\Fina.Web.csproj",
+  "projectFilePath": "C:\\dev\\Fina\\FinaFlow\\Fina.Web\\Fina.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",

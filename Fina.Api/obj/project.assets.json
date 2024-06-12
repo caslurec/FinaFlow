@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Fina\\Fina.Api\\Fina.Api.csproj",
+      "projectUniqueName": "C:\\dev\\Fina\\FinaFlow\\Fina.Api\\Fina.Api.csproj",
       "projectName": "Fina.Api",
-      "projectPath": "C:\\dev\\Fina\\Fina.Api\\Fina.Api.csproj",
+      "projectPath": "C:\\dev\\Fina\\FinaFlow\\Fina.Api\\Fina.Api.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Fina\\Fina.Api\\obj\\",
+      "outputPath": "C:\\dev\\Fina\\FinaFlow\\Fina.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\dev\\Fina\\Fina.core\\Fina.Core.csproj": {
-              "projectPath": "C:\\dev\\Fina\\Fina.core\\Fina.Core.csproj"
+            "C:\\dev\\Fina\\FinaFlow\\Fina.core\\Fina.Core.csproj": {
+              "projectPath": "C:\\dev\\Fina\\FinaFlow\\Fina.core\\Fina.Core.csproj"
             }
           }
         }
